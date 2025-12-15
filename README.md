@@ -12,7 +12,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="100" alt="MySql">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="120" alt="MySql">
   <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" width="120" alt="Git">
   </div>
 
