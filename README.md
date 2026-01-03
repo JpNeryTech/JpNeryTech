@@ -2,8 +2,6 @@
 
   <div align="center">
   <a href="https://github.com/JpNeryTech">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JpNeryTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JpNeryTech&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
   </div>
 
